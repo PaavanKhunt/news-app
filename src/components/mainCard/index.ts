@@ -1,0 +1,1 @@
+export {MainCard as default} from './MainCard';
